@@ -14,8 +14,8 @@ In order to run my script, you first need to prepare a set of photos put in the 
 ## Video to video
 By running the sript **video2video.py**, we will have following output:
 <p align="center">
-  <img src="demo/input.gif" width=800><br/>
-  <i>Input video</i>
+  <img src="demo/output.gif" width=800><br/>
+  <i>Output video</i>
 </p>
 
 
