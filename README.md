@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here is my python source code for Photomosaic generator. To the best of my knowledge, my code is the shortest one you could find out for this task (< 30 lines of code). With my code, you could: 
+Here is my python source code for Photomosaic generator. To the best of my knowledge, my code is the shortest one you could find out for this goal (< 30 lines of code). With my code, you could: 
 
 * **Given input image, you could generate Photomosaic art stored under image formats (.png, .jpg, ...)**
 * **Given input video, you could generate Photomosaic art stored under video formats (.avi, .mp4, ...)**
