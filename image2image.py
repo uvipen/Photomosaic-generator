@@ -25,7 +25,7 @@ def get_component_images(path, size):
         image = cv2.imread(image_path, cv2.IMREAD_COLOR)
         image = cv2.resize(image, (size, size))
         images.append(image)
-        avg_colors.append(np.sum(np.sum(image, axis=0), axis=0) / (size ** 2))
+        avg_colors.append(np.sum(image) / (size ** 2))
     return images, np.array(avg_colors)
 
 
